@@ -13,7 +13,7 @@
 - [노지민](https://www.kaggle.com/code/emilyjiminroh/sms-spam-collection-dataset-with-nlp/notebook)
 - [김범주](https://www.kaggle.com/kimbumju/natural-language-processing-nlp-for-be-59406c)
 - [김수환](https://www.kaggle.com/code/swan706/sms-spam-nlp)
-- [김민솔]()
+- [김민솔](https://www.kaggle.com/code/kimminsol/notebookdebc28ca62)
 - [이재표](https://www.kaggle.com/code/jaepyo99/smarcle-sms-spam-collection-with-nlp/notebook)
 
 ### 2팀 : SMS-spam-dataset
